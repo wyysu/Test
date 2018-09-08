@@ -1,6 +1,38 @@
 第二章 手机
 ======================
 
+
+图片：
+
+.. image:: _static/Mobile2018/ball1.gif
+   :alt: 一个图片
+
+
+数学公式：
+
+行内公式： 
+  
+The area of a circle is :math:`A_\text{c} = (\pi/4) d^2`
+
+Since Pythagoras, we know that :math:`a^2 + b^2 = c^2`
+
+整行公式
+
+.. math::
+
+   (a + b)^2 = a^2 + 2ab + b^2
+
+   (a - b)^2 = a^2 - 2ab + b^2
+
+
+代码：
+
+.. code-block:: python
+
+ # python 代码
+ def print_hello():
+     print('Hello, World!')
+
 2.8 2018年
 ---------------------
 
