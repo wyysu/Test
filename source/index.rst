@@ -10,6 +10,6 @@ Welcome to wyblog's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   how_to_be_a_rich_man
+   how_to_Creat_a_Blog
 
 
