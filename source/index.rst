@@ -11,5 +11,6 @@ Welcome to wyblog's documentation!
    :caption: Contents:
    
    how_to_Creat_a_Blog
+   Mobile
 
 
