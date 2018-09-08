@@ -11,3 +11,5 @@ https://mings-blog.readthedocs.io/zh_CN/latest/c04/c04_03.html
 ------------------------------------------
 
 https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html
+H\ :sub:`2`\ O
+E = mc\ :sup:`2`
