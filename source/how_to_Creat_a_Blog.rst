@@ -15,7 +15,3 @@ https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html
 1.3 reStructuredText简明教程
 ------------------------------------------
 http://jwch.sdut.edu.cn/book/rst.html
-
-H\ :sub:`2`\ O
-
-E = mc\ :sup:`2`
